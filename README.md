@@ -6,7 +6,7 @@
 
 [[中文]](README_CN.md)
 
-A Simple and User-Friendly Sentry Debug File Upload Tool
+A Simple and User-Friendly Sentry Debug Information Files Upload Tool
 
 ![SentryUpload Demo](images/sentry-upload.png)
 
