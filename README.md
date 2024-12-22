@@ -4,6 +4,8 @@
 
 # SentryUpload 🚀
 
+[[中文]](README_CN.md)
+
 A Simple and User-Friendly Sentry Debug File Upload Tool
 
 ![SentryUpload Demo](images/sentry-upload.png)

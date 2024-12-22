@@ -4,6 +4,8 @@
 
 # SentryUpload 🚀
 
+[[English]](README.md)
+
 一个简单易用的 Sentry 调试文件上传工具
 
 ![SentryUpload Demo](images/sentry-upload-cn.png)
