@@ -35,10 +35,10 @@
 
 一款功能强大的 iOS 开发者本地化工具。旨在简化 iOS 和 Mac 应用程序开发人员的本地化流程。
 
-<a href="https://apps.apple.com/cn/app/localestudio/id6738019789"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1701216000" alt="Download on the App Store" style="border-radius: 13px; width: 180px; height: 60px;"></a>
+<a href="https://apps.apple.com/cn/app/localestudio/id6738019789"><img src="images/download-on-the-app-store.svg" alt="Download on the App Store"></a>
 
 ### CSV-JSON
 
 一个简单但功能强大的 CSV 和 JSON 格式转换工具。
 
-<a href="https://apps.apple.com/cn/app/csv-json/id6448213098"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1701216000" alt="Download on the App Store" style="border-radius: 13px; width: 180px; height: 60px;"></a>
+<a href="https://apps.apple.com/cn/app/csv-json/id6448213098"><img src="images/download-on-the-app-store.svg" alt="Download on the App Store"></a>

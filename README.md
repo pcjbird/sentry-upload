@@ -35,10 +35,10 @@ A Simple and User-Friendly Sentry Debug File Upload Tool
 
 A powerful localization tool for iOS developers. Easily manage and edit your app's language files.
 
-<a href="https://apps.apple.com/us/app/localestudio/id6738019789"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1701216000" alt="Download on the App Store" style="border-radius: 13px; width: 180px; height: 60px;"></a>
+<a href="https://apps.apple.com/us/app/localestudio/id6738019789"><img src="images/download-on-the-app-store.svg" alt="Download on the App Store"></a>
 
 ### CSV-JSON
 
 A simple yet powerful tool to convert between CSV and JSON formats.
 
-<a href="https://apps.apple.com/us/app/csv-json/id6448213098"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1701216000" alt="Download on the App Store" style="border-radius: 13px; width: 180px; height: 60px;"></a>
+<a href="https://apps.apple.com/us/app/csv-json/id6448213098"><img src="images/download-on-the-app-store.svg" alt="Download on the App Store"></a>
